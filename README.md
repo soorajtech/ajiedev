@@ -34,7 +34,7 @@
 <h3> Connect with me<a href="https://gifyu.com/image/Zy2f"><img src="https://github.com/milaan9/milaan9/blob/main/Handshake.gif" width="60"></a>
 </h3> 
 <p align="center">
-    <a href="https://www.dicord.ajiedev-co.rf.gd" target="_blank"><img alt="Discord Server" width="25px" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Discord.svg"></a>
+    <a href="https://www.discord.ajiedev-co.rf.gd" target="_blank"><img alt="Discord Server" width="25px" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Discord.svg"></a>
     <a href="https://www.facebook.com/ajiedev.co" target="_blank"><img alt="Facebook" width="25px" src="https://upload.wikimedia.org/wikipedia/commons/5/51/Facebook_f_logo_%282019%29.svg"></a>
     <a href="mailto:ajiedevcorp.comtacts@gmail.com" target="_blank"><img alt="Gmail" width="25px" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Gmail.svg"></a> 
 </p>  
