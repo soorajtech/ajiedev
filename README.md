@@ -43,7 +43,7 @@
     <a href="https://github.com/milaan9/milaan9/actions"><img alt="Build README" src="https://github.com/milaan9/milaan9/workflows/Build%20README/badge.svg"></a>
     <a href="https://mybinder.org/v2/gh/jupyterlab/jupyterlab-demo/master?urlpath=lab" target="_blank"><img alt="Python" src="https://mybinder.org/badge_logo.svg"></a>
 <!--https://mybinder.org/v2/gh/jupyterlab/jupyterlab-demo/master-->
-</p> -->
+</p>
 
 <!--
 [![DOI](https://zenodo.org/badge/200104059.svg)](https://zenodo.org/badge/latestdoi/200104059)
