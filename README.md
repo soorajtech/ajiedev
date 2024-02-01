@@ -21,8 +21,10 @@
 <p align="center">   
 
 <h4>My Port Forward Uptime</h4>
-<image src=http://localnet-id.ajiehost.rf.gd:440/api/badge/23/uptime?labelPrefix=SINGAPORE+1+ />
-<image src=http://localnet-id.ajiehost.rf.gd:440/api/badge/24/uptime?labelPrefix=SINGAPORE+2+ />
+<image src=http://localnet-id.ajiehost.rf.gd:440/api/badge/23/uptime/1?labelPrefix=SINGAPORE+1+ />
+<image src=http://localnet-id.ajiehost.rf.gd:440/api/badge/24/uptime/1?labelPrefix=SINGAPORE+2+ />
+<image src=http://localnet-id.ajiehost.rf.gd:440/api/badge/25/uptime/1?labelPrefix=INDONESIA+1+ />
+<image src=http://localnet-id.ajiehost.rf.gd:440/api/badge/26/uptime/1?labelPrefix=INDONESIA+2+ />
 </p> 
 
 
