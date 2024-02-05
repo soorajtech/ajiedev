@@ -20,13 +20,13 @@
 
 <p align="center">   
 
-<!-- <h4>My Port Forward Uptime</h4>
-<image src=https://status.ajieblogs.eu.org/api/badge/23/uptime/1?labelPrefix=SINGAPORE+1+ />
-<image src=https://status.ajieblogs.eu.org/api/badge/24/uptime/1?labelPrefix=SINGAPORE+2+ />
-<image src=https://status.ajieblogs.eu.org/api/badge/25/uptime/1?labelPrefix=INDONESIA+1+ />
-<image src=https://status.ajieblogs.eu.org/api/badge/26/uptime/1?labelPrefix=INDONESIA+2+ />
-<image src=https://status.ajieblogs.eu.org/api/badge/27/uptime/1?labelPrefix=CloudFlare+US+ />
-</p> -->
+<h4>My Port Forward Uptime</h4>
+<image src=https://status.ajieblogs.eu.org/api/badge/16/uptime/1?labelPrefix=CloudFlare+US+ />
+<image src=https://status.ajieblogs.eu.org/api/badge/5/uptime/1?labelPrefix=Contabo+SG1+ />
+<image src=https://status.ajieblogs.eu.org/api/badge/6/uptime/1?labelPrefix=PerwiraMedia+SG2+ />
+<image src=https://status.ajieblogs.eu.org/api/badge/7/uptime/1?labelPrefix=Amazon+WS+ID1+ />
+<image src=https://status.ajieblogs.eu.org/api/badge/8/uptime/1?labelPrefix=IDCloudHost+ID2+ />
+</p>
 
 
 
