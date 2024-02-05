@@ -32,7 +32,7 @@
 
 
 ##### NOW
-- <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="28"> Currently doing nothing ;)</img>
+- <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="28"> Currently creating/building a LocalHosting environment... </img>
 
 
 
