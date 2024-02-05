@@ -26,6 +26,7 @@
 <image src=https://status.ajieblogs.eu.org/api/badge/6/uptime/1?labelPrefix=PerwiraMedia+SG2+ />
 <image src=https://status.ajieblogs.eu.org/api/badge/7/uptime/1?labelPrefix=Amazon+WS+ID1+ />
 <image src=https://status.ajieblogs.eu.org/api/badge/8/uptime/1?labelPrefix=IDCloudHost+ID2+ />
+    More at https://direct.ajiedev-net.rf.gd/dnet-fwd
 </p>
 
 
