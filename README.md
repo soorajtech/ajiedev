@@ -18,7 +18,7 @@
     <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="21"></a> Hi, I'am Ajie - Software & Networking enthusiast, Learning by doing <img align="center" alt="GIF" width="30"  src="https://media.giphy.com/media/H6KusZ8pzxtyymblnE/giphy.gif" width="36"/>
 </h3> 
 
-<p align="center">   
+<!---<p align="center">   
 
 <h4>My Port Forward Uptime (in 1 hour)</h4>
 <image src=https://status.ajieblogs.eu.org/api/badge/16/uptime/1?labelPrefix=CloudFlare+US+ />
@@ -27,7 +27,7 @@
 <image src=https://status.ajieblogs.eu.org/api/badge/7/uptime/1?labelPrefix=Amazon+WS+ID1+ />
 <image src=https://status.ajieblogs.eu.org/api/badge/8/uptime/1?labelPrefix=IDCloudHost+ID2+ />
     More at https://direct.ajiedev-net.rf.gd/dnet-fwd
-</p>
+</p> --->
 
 
 
