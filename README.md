@@ -35,7 +35,8 @@
 ##### NOW
 - <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="28"> Currently creating/building a LocalHosting environment... </img>
 
-[![jiecord](https://discord.c99.nl/widget/theme-3/867303900884893727.png)](https://dsc.gg/ajidevserver)
+[![jiecord](https://discord.c99.nl/widget/theme-3/867303900884893727.png)](https://dsc.gg/ajidevserver) <br />
+[![jiecordsrv](https://discord.com/api/guilds/993867537337024565/widget.png?style=banner2)](https://dsc.gg/ajidevserver)
 
 <div align="center">
 <h3> Connect with me<a href="https://gifyu.com/image/Zy2f"><img src="https://github.com/milaan9/milaan9/blob/main/Handshake.gif" width="60"></a>
