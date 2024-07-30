@@ -1,4 +1,4 @@
-<h1 align="center"> <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="36"/>Hey! Welcome to my profile </h1>
+ <h1 align="center"> <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="36"/>Hey! Welcome to my profile </h1>
 
 <p align="center"> 
     <img src="https://komarev.com/ghpvc/?username=AjieDev" alt="AjieDev"/>       
@@ -35,7 +35,7 @@
 ##### NOW
 - <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="28"> Currently creating/building a LocalHosting environment... </img>
 
-[![jiecord](https://discord.c99.nl/widget/theme-3/867303900884893727.png)](https://dsc.gg/ajidevserver) <br />
+[![jiecord](https://discord.c99.nl/widget/theme-2/soorajsk.png)](https://dsc.gg/ajidevserver) <br />
 [![jiecordsrv](https://discord.com/api/guilds/993867537337024565/widget.png?style=banner2)](https://dsc.gg/ajidevserver)
 
 <div align="center">
